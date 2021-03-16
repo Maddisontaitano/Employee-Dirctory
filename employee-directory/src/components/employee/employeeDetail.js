@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import API from "../../utils/API";
 import SearchForm from "../search";
-// import "./Employee.css";
+import "./employee.css";
 
 class EmployeeDetail extends Component {
   state = {
@@ -35,10 +35,10 @@ class EmployeeDetail extends Component {
 
   render() {
     return (
-      <div className="spacing">
+      <div className="data">
           <SearchForm changeHandler={this.handleInputChange} value={this.state.search}/>
             <div className="datatable mt-3">
-                <table className="empTable table-striped table-hover table-condensed">
+                <table className="empTable ">
                     <thead>
                         <tr className="m-2">
                             <th>Photo</th>
