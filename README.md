@@ -9,12 +9,12 @@
 
 ## Table Of Contents
 
-*[Installation](#installation) 
-*[usage](#usage)
-*[license](#license)
-*[Code Snippets](#CodeSnippets)
-*[tests](#tests)
-*[questions](#questions)
+*[Installation](#installation) <br>
+*[usage](#usage) <br>
+*[license](#license) <br>
+*[Code Snippets](#CodeSnippets) <br>
+*[tests](#tests) <br>
+*[questions](#questions) <br>
 
 
  ## Installation
