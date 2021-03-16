@@ -31,6 +31,12 @@
 
 ## CodeSnippets
 
+This snippet is in the server.js file. It is the mongo db connection. 
+<img src="/img/browser.png" alt="browser snippet"/>
+
+This is a snippet of the broswer when you add a new exercise
+<img src="/img/search.png" alt="the search form snippet"/>
+
 
 ## Questions
     For any follow up questions, plese feel free to contact me at my GitHub page:
