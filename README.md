@@ -36,6 +36,7 @@ This snippet is in the server.js file. It is the mongo db connection.
 
 This is a snippet of the broswer when you add a new exercise
 <img src="/img/search.png"/>
+![alt tag](http://url/to/search.png) 
 
 
 ## Questions
