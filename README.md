@@ -31,11 +31,11 @@
 
 ## CodeSnippets
 
-This snippet writes the ReadMe file and is located in the index.js file.
-<img src="/images/browser.png" alt="writefile function"/>
+This snippet is the user interface
+<img src="/images/browser.png" alt="browser screenshot"/>
 
-This is a snippet of the generateMarkdown.js file. This file is the skeleton for the generatable ReadMe. 
-<img src="/images/search.png" alt="My cool logo"/>
+This is a snippet of the search.js file shows the search form
+<img src="/images/search.png" alt="search form"/>
 
 
 ## Questions
