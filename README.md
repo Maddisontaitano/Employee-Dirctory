@@ -33,10 +33,10 @@
 ## CodeSnippets
 
 
-    ## Questions
+## Questions
     For any follow up questions, plese feel free to contact me at my GitHub page:
     
      [GitHub Profile](https://github.com/maddisontaitano/Employee Directory).
     
-    ## License
+## License
     [MIT](https://choosealicense.com/licenses/mit/)
