@@ -1,10 +1,9 @@
 # Employee-Dirctory
 
-            This app is designed to make a user 
-        friendly way to search for and access 
-        employees and their information, along with
-        a pleasent picture to put a face to the name
-        you've heard so much about!  
+            This app is designed to make a user friendly way to
+             search for and access employees and their information,
+              along with a pleasent picture to put a face to the name
+              you've heard so much about!  
     
 
 ## Table Of Contents
