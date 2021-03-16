@@ -31,12 +31,11 @@
 
 ## CodeSnippets
 
-This snippet is in the server.js file. It is the mongo db connection. 
-<img src="/img/browser.png" alt="browser snippet"/>
+This snippet writes the ReadMe file and is located in the index.js file.
+<img src="/images/browser.png" alt="writefile function"/>
 
-This is a snippet of the broswer when you add a new exercise
-<img src="/img/search.png"/>
-![alt tag](http://url/to/search.png) 
+This is a snippet of the generateMarkdown.js file. This file is the skeleton for the generatable ReadMe. 
+<img src="/images/search.png" alt="My cool logo"/>
 
 
 ## Questions
